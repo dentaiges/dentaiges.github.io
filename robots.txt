@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dentaiges.github.io/sitemap.html.gz
+Sitemap: https://dentaiges.github.io/app/sitemap.html.gz
+Sitemap: https://dentaiges.github.io/assets/sitemap.html.gz
+Sitemap: https://dentaiges.github.io/css/sitemap.html.gz
+Sitemap: https://dentaiges.github.io/data/sitemap.html.gz
+Sitemap: https://dentaiges.github.io/includes/sitemap.html.gz
+Sitemap: https://dentaiges.github.io/item/sitemap.html.gz
+Sitemap: https://dentaiges.github.io/src/sitemap.html.gz
